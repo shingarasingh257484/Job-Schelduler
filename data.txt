@@ -1,0 +1,14 @@
+5:00,5, Wake Up
+5:05,60, Meditation
+6:10,80, Revision
+7:30,60, Ready
+9:55,45, Attend Classes
+12:10,45, Lunch Time
+15:55,5,Classes Over
+16:00,90,Travel To Home
+17:30,30,Take Rest
+18:00,60,Meditation
+19:00,180,Study
+22:00,60,Cooking
+23:00,60,Rest
+00:00,300,Sleep
